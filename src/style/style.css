@@ -9,3 +9,313 @@
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
+
+.robotinicio {
+  margin-top: 60;
+  margin-left: 80px;
+}
+
+.saludo {
+  margin-top: 70px;
+  font-family: cursive;
+  color: white;
+}
+
+.botonInicioSi {
+  margin-top: 100px;
+  width: 80px;
+  font-family: cursive;
+}
+.botonInicioNo {
+  margin-top: 100px;
+  margin-left: 20px;
+  width: 80px;
+  font-family: cursive;
+}
+
+.tituloInicio {
+  font-family: cursive;
+  margin-top: 150px;
+  margin-left: 30px;
+}
+
+.botonIniciar {
+  margin-top: 60px;
+}
+
+.botonRegistro {
+  margin-top: 10px;
+}
+
+.lista {
+  color: transparent;
+}
+
+.BC {
+  margin-top: 40px;
+  -moz-transform: rotate(-100deg);
+  -o-transform: rotate(-10deg);
+  -webkit-transform: rotate(-10deg);
+  transform: rotate(-10deg);
+}
+.DF {
+  margin-top: 40px;
+  -moz-transform: rotate(-100deg);
+  -o-transform: rotate(-10deg);
+  -webkit-transform: rotate(-10deg);
+  transform: rotate(10deg);
+}
+
+.GH {
+  margin-top: 40px;
+  -moz-transform: rotate(-20deg);
+  -o-transform: rotate(-20deg);
+  -webkit-transform: rotate(-20deg);
+  transform: rotate(-10deg);
+}
+.JK {
+  margin-top: 40px;
+  -moz-transform: rotate(-20deg);
+  -o-transform: rotate(-20deg);
+  -webkit-transform: rotate(-20deg);
+  transform: rotate(10deg);
+}
+
+.MN {
+  margin-top: 40px;
+  -moz-transform: rotate(-100deg);
+  -o-transform: rotate(-10deg);
+  -webkit-transform: rotate(-10deg);
+  transform: rotate(-10deg);
+}
+
+.ST {
+  margin-top: 40px;
+  -moz-transform: rotate(-100deg);
+  -o-transform: rotate(-10deg);
+  -webkit-transform: rotate(-10deg);
+  transform: rotate(10deg);
+}
+
+.robotpc {
+  height: 300px;
+  width: 290px;
+}
+
+.fondoInicioS {
+  display: flex;
+  flex-direction: column;
+  background-color: lightsteelblue;
+  height: 100vh;
+  margin: 0;
+}
+
+.bordes {
+  border-top: 1px solid grey;
+  border-right: 1px solid grey;
+  border-bottom: 1px solid grey;
+  border-left: 1px solid grey;
+  width: 400px;
+  height: 360px;
+  margin: 90px auto;
+}
+
+.bordesForm {
+  margin: 20px 20px;
+}
+
+.iniciar {
+  color: white;
+  font-family: cursive;
+}
+.botonComencemos {
+  margin-left: 140px;
+}
+.letraInicio {
+  font-family: cursive;
+}
+.tituloIniciar {
+  font-family: cursive;
+  text-align: center;
+  margin-top: 0px;
+  color: blue;
+}
+.btnEncender {
+  background: transparent;
+  border: 0px;
+}
+.noCerrar {
+  font-family: cursive;
+}
+
+.robotPrincipal {
+  margin-top: 150px;
+}
+
+.btnMenu {
+  height: 50px;
+  width: 100px;
+  margin-top: 100px;
+}
+
+.menu {
+  font-family: cursive;
+}
+
+.btnNivel1 {
+  height: 50px;
+  width: 100px;
+  margin-top: 100px;
+}
+.Nivel1 {
+  font-family: cursive;
+}
+.btnLogros {
+  height: 50px;
+  width: 100px;
+  margin-top: 100px;
+}
+.Logros {
+  font-family: cursive;
+}
+
+.btnPremios {
+  height: 50px;
+  width: 100px;
+  margin-top: 100px;
+}
+.premios {
+  font-family: cursive;
+}
+
+.btnInstrucciones {
+  height: 80px;
+  width: 150px;
+  margin-top: 100px;
+  border-radius: 60%;
+}
+
+.btnAyuda {
+  height: 80px;
+  width: 150px;
+  margin-top: 100px;
+  border-radius: 60%;
+}
+.btnCreditos {
+  height: 80px;
+  width: 150px;
+  margin-top: 100px;
+  border-radius: 60%;
+}
+.btnAcercaDe {
+  height: 80px;
+  width: 150px;
+  margin-top: 100px;
+  border-radius: 60%;
+}
+
+.btnAtras {
+  background: transparent;
+  border: 0px;
+  margin-right: 340px;
+}
+.robotNivelUno {
+  height: 400px;
+  width: 300px;
+}
+
+#textNivelUno {
+  padding: 10px;
+  width: 190px;
+  border-radius: 10px;
+  background-color: darksalmon;
+  font-family: cursive;
+  font-size: 1.4em;
+  margin-top: 100px;
+}
+.pNivelUno {
+  font-family: cursive;
+}
+.casaNivelUno {
+  background: transparent;
+  border: 0px;
+  margin-top: 500px;
+  margin-right: 250px;
+}
+.casaNivel {
+  height: 100px;
+  width: 100px;
+}
+.btnSiguiente {
+  margin-top: 550px;
+  height: 50;
+  width: 150px;
+  margin-left: 90px;
+}
+.sumo {
+  height: 150px;
+  width: 150px;
+}
+.ajo {
+  height: 150px;
+  width: 170px;
+}
+.btnNivelUno {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.robotSignoN {
+  height: 400px;
+  width: 400px;
+  margin-top: 100px;
+}
+
+.arroyo {
+  height: 150px;
+  width: 200px;
+  margin-top: 80px;
+}
+.vello {
+  height: 180px;
+  width: 200px;
+  margin-top: 70px;
+}
+.flechaAdelante {
+  background: transparent;
+  border: 0px;
+  margin-left: 160px;
+  margin-top: 10px;
+}
+.pasto {
+  height: 200px;
+  width: 200px;
+}
+.pastoInput {
+  margin-top: 20px;
+}
+
+.ola {
+  height: 200px;
+  width: 200px;
+}
+.botar {
+  height: 190px;
+  width: 190px;
+  margin-top: 10px;
+}
+.gesto {
+  height: 190px;
+  width: 200px;
+  margin-top: 10px;
+}
+.urna {
+  height: 190px;
+  width: 200px;
+  margin-top: 50px;
+}
+
+.flechaAdelanteND {
+  background: transparent;
+  border: 0px;
+  margin-left: 190px;
+}
